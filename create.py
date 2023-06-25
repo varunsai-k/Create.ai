@@ -20,7 +20,6 @@ with tab1:
 
     st.write('Create:blue[.]ai is an AI-powered content creation tool that can help you level up your YouTube channel. With Create.ai, you can generate high-quality content in minutes, including titles, descriptions, scripts, and even entire videos.Whether you\'re a beginner or a seasoned YouTuber, Create.ai can help you take your channel to the next level.')
     st.image('https://www.apa.org//images//2021-09-career-content-creation_tcm7-296397.jpg')
-    os.environ['OPENAI_API_KEY']='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'
 
     st.write('If you\'re looking for a way to create engaging and informative YouTube videos quickly and easily, then Create.ai is the perfect tool for you. :violet[Sign up] for a free trial today and see how Create:violet[.]ai can help you grow your channel.')
     
