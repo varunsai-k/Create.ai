@@ -62,3 +62,7 @@
 <div align="middle">
     <video src="creativity.mp4" width="80%" controls autoplay/>
 </div>
+
+
+https://github.com/varunsai-k/Create.ai/assets/96821183/d11b2214-2438-481f-be49-bd2a83ad2871
+
