@@ -1,5 +1,5 @@
 <h1 align='center'>Create<b style="color: MediumBlue;">.</b>ai</h1>
-<p>Create<b style="color: MediumBlue;">.</b>ai is an AI-powered content creation tool that can help you level up your YouTube channel. With Create.ai, you can generate high-quality content in minutes, including titles, descriptions, scripts, and even entire videos.Whether you're a beginner or a seasoned YouTuber, Create.ai can help you take your channel to the next level.</p>
+<p>Create<b style="color: MediumBlue;">.</b>ai is an AI-powered content creation tool that can help you level up your YouTube channel. With Create.ai, you can generate high-quality content in minutes, including titles, descriptions and scripts.Whether you're a beginner or a seasoned YouTuber, Create.ai can help you take your channel to the next level.</p>
 <br>
 
 
